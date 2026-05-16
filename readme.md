@@ -274,7 +274,10 @@ project/
 # Citation
 
 If you use this framework in research, please cite the corresponding conference paper.
-Title: Gender-based Negative Emotion Detection from Online Textual Content Using Machine Learning
 
 ```
+Title: Gender-based Negative Emotion Detection from Online Textual Content Using Machine Learning
+```
+
+---
 
